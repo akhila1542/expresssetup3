@@ -1,0 +1,20 @@
+{
+  "name": "todoproject",
+  "version": "1.0.0",
+  "description": "steps for express ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "backend"
+  ],
+  "author": "Akhila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
